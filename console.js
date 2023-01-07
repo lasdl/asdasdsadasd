@@ -6,3 +6,4 @@ return null;
 }
 
 console.log(main)
+console.log("helo world")
